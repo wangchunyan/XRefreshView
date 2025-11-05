@@ -131,12 +131,12 @@
         android:text="办单超人刷新" />
 
     <Button
-        android:id="@+id/bt_custom_banner"
+        android:id="@+id/bt_banner_recyclerview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
         android:onClick="onClick"
-        android:text="自定义Banner刷新" />
+        android:text="Banner RecyclerView" />
 
     <Button
         android:layout_width="wrap_content"
